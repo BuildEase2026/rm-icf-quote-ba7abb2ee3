@@ -1,0 +1,599 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Ian Piercy (Distributor) for Ramsey Town Commissioners",
+  "job": "Close Woirrey and Albert Road, Ramsey, Isle of Man",
+  "number_prefix": "ES26-071",
+  "status": "QUOTATION",
+  "revision": "Q01",
+  "model_title": "ES26-071 Close Woirrey and Albert Road, Ramsey, Isle of Man - Quotation Q01"
+ },
+ "default_view": "stage-7",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Foundation ICF and ground-floor slab",
+   "desc": "Nudura ICF foundation walls under both blocks, 2 courses (914 mm) below FFL +6.080 (6in XR35 external, 6in Standard compartment and core walls), and the ground-floor slab: 75 screed / 120 insulation / 200 RC ground-bearing slab (engineer to design).",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground-floor ICF, partitions, windows and doors",
+   "desc": "Ground-floor ICF walls with the openings (25 mm head and jamb overfly), the ground-floor timber partitions inside the flats (38x89 C16; 38x140 + 9 OSB on the walls drawn on the wall layer), windows, doors and the glazed corner-bay and stair screens.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First-floor slab, stairs and lift",
+   "desc": "First-floor 215 profiled metal-deck composite slab with 30 insulation and 75 screed (toggle), bearing into the ICF core (engineer to design); precast three-flight stair round the lift, ground to first floor; 13-person lift car and pit.",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "First-floor ICF, partitions and windows",
+   "desc": "First-floor ICF walls (FF FFL +3,090 above GF), the first-floor timber partitions, windows, balcony doors and screens.",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Second-floor slab and stairs",
+   "desc": "Second-floor 215 metal-deck composite slab, insulation and screed (toggle); precast stair first to second floor with the well-edge guarding.",
+   "focus": false
+  },
+  {
+   "id": "stage-6",
+   "kind": "stage",
+   "n": 6,
+   "title": "Second-floor ICF, partitions and windows",
+   "desc": "Second-floor ICF walls (SF FFL +6,165) to the wall top +8,815, the compartment walls carried up to 50 below the top of the rafters, the second-floor timber partitions, windows and screens.",
+   "focus": false
+  },
+  {
+   "id": "stage-7",
+   "kind": "stage",
+   "n": 7,
+   "title": "Roof structure",
+   "desc": "45 degree hipped roofs with flat tops (+11,535) over both blocks, framed members only (rafters, hips, valleys, jack rafters, crown plate, flat-top and ceiling joists, wall plates); the truss manufacturer designs the trussed flat-top set. Roof planes and coverings not shown.",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 7,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 7,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 7,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 7,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Foundation ICF and ground-floor slab",
+   "desc": "Nudura ICF foundation walls under both blocks, 2 courses (914 mm) below FFL +6.080 (6in XR35 external, 6in Standard compartment and core walls), and the ground-floor slab: 75 screed / 120 insulation / 200 RC ground-bearing slab (engineer to design).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2352352
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF, partitions, windows and doors",
+   "desc": "Ground-floor ICF walls with the openings (25 mm head and jamb overfly), the ground-floor timber partitions inside the flats (38x89 C16; 38x140 + 9 OSB on the walls drawn on the wall layer), windows, doors and the glazed corner-bay and stair screens.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8045864
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First-floor slab, stairs and lift",
+   "desc": "First-floor 215 profiled metal-deck composite slab with 30 insulation and 75 screed (toggle), bearing into the ICF core (engineer to design); precast three-flight stair round the lift, ground to first floor; 13-person lift car and pit.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 321480
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF, partitions and windows",
+   "desc": "First-floor ICF walls (FF FFL +3,090 above GF), the first-floor timber partitions, windows, balcony doors and screens.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 7632124
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Second-floor slab and stairs",
+   "desc": "Second-floor 215 metal-deck composite slab, insulation and screed (toggle); precast stair first to second floor with the well-edge guarding.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 318432
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Second-floor ICF, partitions and windows",
+   "desc": "Second-floor ICF walls (SF FFL +6,165) to the wall top +8,815, the compartment walls carried up to 50 below the top of the rafters, the second-floor timber partitions, windows and screens.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 10948200
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Roof structure",
+   "desc": "45 degree hipped roofs with flat tops (+11,535) over both blocks, framed members only (rafters, hips, valleys, jack rafters, crown plate, flat-top and ceiling joists, wall plates); the truss manufacturer designs the trussed flat-top set. Roof planes and coverings not shown.",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 155824
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The distributor quantities schedule (the pre-cut forms we supply, with the stock forms and accessories for the distributor's information; no prices), the 40 ft container load plans and the pre-cut pallet stack sheets for both blocks (freight TBC).",
+   "zip": {
+    "file": "downloads/ES26-071 Quotation.zip",
+    "bytes": 1552240,
+    "count": 3
+   },
+   "docs": [
+    {
+     "id": "ES26-071-LP-01",
+     "title": "Container load plans - pre-cut forms, both blocks",
+     "file": "docs/quote/ES26-071-LP-01 Container load plans - pre-cut forms, both blocks.pdf",
+     "pages": 15,
+     "thumb": "thumbs/ES26-071-LP-01.png",
+     "bytes": 110333,
+     "number": "ES26-071-LP-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-PS-01",
+     "title": "Pallet stack sheets - pre-cut forms, both blocks",
+     "file": "docs/quote/ES26-071-PS-01 Pallet stack sheets - pre-cut forms, both blocks.pdf",
+     "pages": 64,
+     "thumb": "thumbs/ES26-071-PS-01.png",
+     "bytes": 1672997,
+     "number": "ES26-071-PS-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-QS-01",
+     "title": "Distributor Quantities Schedule",
+     "file": "docs/quote/ES26-071-QS-01 Distributor Quantities Schedule.pdf",
+     "pages": 8,
+     "thumb": "thumbs/ES26-071-QS-01.png",
+     "bytes": 291905,
+     "number": "ES26-071-QS-01",
+     "view": "stage-7",
+     "view_opts": {}
+    }
+   ],
+   "downloads": [
+    {
+     "file": "downloads/ES26-071 Distributor Quantities Schedule.xlsx",
+     "title": "Distributor quantities schedule (Excel, quantities only - no prices) (0.0 MB)"
+    }
+   ]
+  },
+  {
+   "id": "site",
+   "title": "Site",
+   "note": "The 00-001A site plan with both blocks and the floor level (FFL +6.080 AOD).",
+   "zip": {
+    "file": "downloads/ES26-071 Site.zip",
+    "bytes": 3685195,
+    "count": 1
+   },
+   "docs": [
+    {
+     "id": "ES26-071-SP-01",
+     "title": "Site Plan - Blocks and Floor Levels",
+     "file": "docs/site/ES26-071-SP-01 Site Plan - Blocks and Floor Levels.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-SP-01.png",
+     "bytes": 4544259,
+     "number": "ES26-071-SP-01",
+     "view": "stage-7",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "block1",
+   "title": "Block 1 - 12 flats",
+   "note": "ICF general arrangements (foundation, ground, first and second floor, with the timber partitions), elevations, a section, the roof structure layout and sections, and the timber partition plans per floor.",
+   "zip": {
+    "file": "downloads/ES26-071 Block 1 - 12 flats.zip",
+    "bytes": 1257146,
+    "count": 12
+   },
+   "docs": [
+    {
+     "id": "ES26-071-GA-01",
+     "title": "Block 1 (12 flats) - Foundation ICF",
+     "file": "docs/block1/ES26-071-GA-01 Block 1 (12 flats) - Foundation ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-01.png",
+     "bytes": 65484,
+     "number": "ES26-071-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-GA-02",
+     "title": "Block 1 (12 flats) - Ground Floor ICF",
+     "file": "docs/block1/ES26-071-GA-02 Block 1 (12 flats) - Ground Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-02.png",
+     "bytes": 78676,
+     "number": "ES26-071-GA-02",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-GA-03",
+     "title": "Block 1 (12 flats) - First Floor ICF",
+     "file": "docs/block1/ES26-071-GA-03 Block 1 (12 flats) - First Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-03.png",
+     "bytes": 77669,
+     "number": "ES26-071-GA-03",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-GA-04",
+     "title": "Block 1 (12 flats) - Second Floor ICF",
+     "file": "docs/block1/ES26-071-GA-04 Block 1 (12 flats) - Second Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-04.png",
+     "bytes": 76916,
+     "number": "ES26-071-GA-04",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-EL-01",
+     "title": "Block 1 (12 flats) - Front and Rear Elevations",
+     "file": "docs/block1/ES26-071-EL-01 Block 1 (12 flats) - Front and Rear Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-EL-01.png",
+     "bytes": 370663,
+     "number": "ES26-071-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-EL-02",
+     "title": "Block 1 (12 flats) - Side Elevations",
+     "file": "docs/block1/ES26-071-EL-02 Block 1 (12 flats) - Side Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-EL-02.png",
+     "bytes": 377321,
+     "number": "ES26-071-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-SE-01",
+     "title": "Block 1 (12 flats) - Section A-A",
+     "file": "docs/block1/ES26-071-SE-01 Block 1 (12 flats) - Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-SE-01.png",
+     "bytes": 123729,
+     "number": "ES26-071-SE-01",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-RF-01",
+     "title": "Block 1 (12 flats) - Roof Structure Layout",
+     "file": "docs/block1/ES26-071-RF-01 Block 1 (12 flats) - Roof Structure Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-RF-01.png",
+     "bytes": 72226,
+     "number": "ES26-071-RF-01",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-RF-02",
+     "title": "Block 1 (12 flats) - Roof Sections and Member Schedule",
+     "file": "docs/block1/ES26-071-RF-02 Block 1 (12 flats) - Roof Sections and Member Schedule.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-RF-02.png",
+     "bytes": 55456,
+     "number": "ES26-071-RF-02",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-TF-01",
+     "title": "Block 1 (12 flats) - Ground Floor Timber Partitions",
+     "file": "docs/block1/ES26-071-TF-01 Block 1 (12 flats) - Ground Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-TF-01.png",
+     "bytes": 88787,
+     "number": "ES26-071-TF-01",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-TF-02",
+     "title": "Block 1 (12 flats) - First Floor Timber Partitions",
+     "file": "docs/block1/ES26-071-TF-02 Block 1 (12 flats) - First Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-TF-02.png",
+     "bytes": 88901,
+     "number": "ES26-071-TF-02",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-TF-03",
+     "title": "Block 1 (12 flats) - Second Floor Timber Partitions",
+     "file": "docs/block1/ES26-071-TF-03 Block 1 (12 flats) - Second Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-TF-03.png",
+     "bytes": 88902,
+     "number": "ES26-071-TF-03",
+     "view": "stage-6",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "block2",
+   "title": "Block 2 - 18 flats",
+   "note": "ICF general arrangements (foundation, ground, first and second floor, with the timber partitions), elevations, a section, the roof structure layout and sections, and the timber partition plans per floor.",
+   "zip": {
+    "file": "downloads/ES26-071 Block 2 - 18 flats.zip",
+    "bytes": 1442373,
+    "count": 12
+   },
+   "docs": [
+    {
+     "id": "ES26-071-GA-05",
+     "title": "Block 2 (18 flats) - Foundation ICF",
+     "file": "docs/block2/ES26-071-GA-05 Block 2 (18 flats) - Foundation ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-05.png",
+     "bytes": 67225,
+     "number": "ES26-071-GA-05",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-GA-06",
+     "title": "Block 2 (18 flats) - Ground Floor ICF",
+     "file": "docs/block2/ES26-071-GA-06 Block 2 (18 flats) - Ground Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-06.png",
+     "bytes": 84138,
+     "number": "ES26-071-GA-06",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-GA-07",
+     "title": "Block 2 (18 flats) - First Floor ICF",
+     "file": "docs/block2/ES26-071-GA-07 Block 2 (18 flats) - First Floor ICF.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-GA-07.png",
+     "bytes": 83120,
+     "number": "ES26-071-GA-07",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-GA-08",
+     "title": "Block 2 (18 flats) - Second Floor ICF",
+     "file": "docs/block2/ES26-071-GA-08 Block 2 (18 flats) - Second Floor ICF.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-071-GA-08.png",
+     "bytes": 88581,
+     "number": "ES26-071-GA-08",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-EL-03",
+     "title": "Block 2 (18 flats) - Front and Rear Elevations",
+     "file": "docs/block2/ES26-071-EL-03 Block 2 (18 flats) - Front and Rear Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-EL-03.png",
+     "bytes": 484643,
+     "number": "ES26-071-EL-03",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-EL-04",
+     "title": "Block 2 (18 flats) - Side Elevations",
+     "file": "docs/block2/ES26-071-EL-04 Block 2 (18 flats) - Side Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-EL-04.png",
+     "bytes": 430193,
+     "number": "ES26-071-EL-04",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-SE-02",
+     "title": "Block 2 (18 flats) - Section B-B",
+     "file": "docs/block2/ES26-071-SE-02 Block 2 (18 flats) - Section B-B.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-SE-02.png",
+     "bytes": 114929,
+     "number": "ES26-071-SE-02",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-RF-03",
+     "title": "Block 2 (18 flats) - Roof Structure Layout",
+     "file": "docs/block2/ES26-071-RF-03 Block 2 (18 flats) - Roof Structure Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-RF-03.png",
+     "bytes": 76576,
+     "number": "ES26-071-RF-03",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-RF-04",
+     "title": "Block 2 (18 flats) - Roof Sections and Member Schedule",
+     "file": "docs/block2/ES26-071-RF-04 Block 2 (18 flats) - Roof Sections and Member Schedule.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-RF-04.png",
+     "bytes": 56389,
+     "number": "ES26-071-RF-04",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-TF-04",
+     "title": "Block 2 (18 flats) - Ground Floor Timber Partitions",
+     "file": "docs/block2/ES26-071-TF-04 Block 2 (18 flats) - Ground Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-TF-04.png",
+     "bytes": 104552,
+     "number": "ES26-071-TF-04",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-TF-05",
+     "title": "Block 2 (18 flats) - First Floor Timber Partitions",
+     "file": "docs/block2/ES26-071-TF-05 Block 2 (18 flats) - First Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-TF-05.png",
+     "bytes": 104170,
+     "number": "ES26-071-TF-05",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-071-TF-06",
+     "title": "Block 2 (18 flats) - Second Floor Timber Partitions",
+     "file": "docs/block2/ES26-071-TF-06 Block 2 (18 flats) - Second Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-071-TF-06.png",
+     "bytes": 104680,
+     "number": "ES26-071-TF-06",
+     "view": "stage-6",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [
+  {
+   "label": "Floor slabs (metal deck, topping, insulation, screed)",
+   "materials": [
+    "RM deck concrete",
+    "RM galv metal deck 0.9",
+    "RM 75 screed",
+    "RM 30 floor insulation"
+   ],
+   "default": false,
+   "stages": [
+    3,
+    5
+   ]
+  }
+ ],
+ "download_all": {
+  "file": "downloads/ES26-071 Close Woirrey and Albert Road, Ramsey, Isle of Man - Quotation Q01.zip",
+  "bytes": 7951318,
+  "count": 29,
+  "title": "Download everything"
+ }
+}

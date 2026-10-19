@@ -1,0 +1,97 @@
+{
+ "job": "Close Woirrey and Albert Road, Ramsey, Isle of Man",
+ "revision": "Q01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Foundation ICF and ground-floor slab",
+   "desc": "Nudura ICF foundation walls under both blocks, 2 courses (914 mm) below FFL +6.080 (6in XR35 external, 6in Standard compartment and core walls), and the ground-floor slab: 75 screed / 120 insulation / 200 RC ground-bearing slab (engineer to design).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2352352
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF, partitions, windows and doors",
+   "desc": "Ground-floor ICF walls with the openings (25 mm head and jamb overfly), the ground-floor timber partitions inside the flats (38x89 C16; 38x140 + 9 OSB on the walls drawn on the wall layer), windows, doors and the glazed corner-bay and stair screens.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8045864
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First-floor slab, stairs and lift",
+   "desc": "First-floor 215 profiled metal-deck composite slab with 30 insulation and 75 screed (toggle), bearing into the ICF core (engineer to design); precast three-flight stair round the lift, ground to first floor; 13-person lift car and pit.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 321480
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF, partitions and windows",
+   "desc": "First-floor ICF walls (FF FFL +3,090 above GF), the first-floor timber partitions, windows, balcony doors and screens.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 7632124
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Second-floor slab and stairs",
+   "desc": "Second-floor 215 metal-deck composite slab, insulation and screed (toggle); precast stair first to second floor with the well-edge guarding.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 318432
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Second-floor ICF, partitions and windows",
+   "desc": "Second-floor ICF walls (SF FFL +6,165) to the wall top +8,815, the compartment walls carried up to 50 below the top of the rafters, the second-floor timber partitions, windows and screens.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 10948200
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Roof structure",
+   "desc": "45 degree hipped roofs with flat tops (+11,535) over both blocks, framed members only (rafters, hips, valleys, jack rafters, crown plate, flat-top and ceiling joists, wall plates); the truss manufacturer designs the trussed flat-top set. Roof planes and coverings not shown.",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 155824
+    }
+   ]
+  }
+ ]
+}
