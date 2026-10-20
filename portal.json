@@ -212,10 +212,10 @@
   {
    "id": "quote",
    "title": "Quotation",
-   "note": "The distributor quantities schedule (the pre-cut forms we supply, with the stock forms and accessories for the distributor's information; no prices), the 40 ft container load plans and the pre-cut pallet stack sheets for both blocks (freight TBC).",
+   "note": "The Distributor Bill of Materials for both blocks (the Nudura Proposal Generator distributor format: every form and accessory per block and level with your rate card - no material prices from us; our fixed charge is the pre-cut service only), the 40 ft container load plans and the pre-cut pallet stack sheets (freight TBC).",
    "zip": {
     "file": "downloads/ES26-071 Quotation.zip",
-    "bytes": 1552240,
+    "bytes": 1638341,
     "count": 3
    },
    "docs": [
@@ -243,11 +243,11 @@
     },
     {
      "id": "ES26-071-QS-01",
-     "title": "Distributor Quantities Schedule",
-     "file": "docs/quote/ES26-071-QS-01 Distributor Quantities Schedule.pdf",
-     "pages": 8,
+     "title": "Distributor BOM - Block 1 and Block 2",
+     "file": "docs/quote/ES26-071-QS-01 Distributor BOM - Block 1 and Block 2.pdf",
+     "pages": 15,
      "thumb": "thumbs/ES26-071-QS-01.png",
-     "bytes": 291905,
+     "bytes": 457214,
      "number": "ES26-071-QS-01",
      "view": "stage-7",
      "view_opts": {}
@@ -255,8 +255,8 @@
    ],
    "downloads": [
     {
-     "file": "downloads/ES26-071 Distributor Quantities Schedule.xlsx",
-     "title": "Distributor quantities schedule (Excel, quantities only - no prices) (0.0 MB)"
+     "file": "downloads/ES26-071 Distributor BOM - Close Woirrey and Albert Road (B1 + B2).xlsx",
+     "title": "Distributor BOM (Excel - enter your rates in the yellow cells; the totals and order form update) (0.1 MB)"
     }
    ]
   },
@@ -592,7 +592,7 @@
  ],
  "download_all": {
   "file": "downloads/ES26-071 Close Woirrey and Albert Road, Ramsey, Isle of Man - Quotation Q01.zip",
-  "bytes": 7951318,
+  "bytes": 8062903,
   "count": 29,
   "title": "Download everything"
  }
